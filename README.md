@@ -39,8 +39,10 @@ The application reads employee information and previous year's assignments from 
    ```bash
    git https://github.com/Mohammedirfaan1/Secret-Santa-Game.git
    cd SecretSanta
+   
 2.Build the project using Maven:
   mvn clean install
+  
 3. Check that dependencies (e.g., OpenCSV) are installed properly.
 
 ## Project Structure
