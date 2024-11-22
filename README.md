@@ -41,6 +41,7 @@ The application reads employee information and previous year's assignments from 
    cd SecretSanta
    
 2.Build the project using Maven:
+  ```bash
   mvn clean install
   
 3. Check that dependencies (e.g., OpenCSV) are installed properly.
